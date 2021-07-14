@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Akash26-dev
+- 👀 I’m interested in ...
+java development jobs
+- 🌱 I’m currently learning ...
+ ---spring 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+kakade.akash5455@gmail.com
+
+<!---
+Akash26-dev/Akash26-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
